@@ -2,6 +2,31 @@
 
 This is the frontend for NutriSnap, built with React, TypeScript, and Tailwind CSS.
 
+
+
+
+
+
+# NutriSnap 🍎
+
+NutriSnap is an AI-powered nutrition tracking application that analyzes food images to identify meals and estimate their nutritional content, including calories, protein, carbohydrates, and fats.
+
+The project aims to make nutrition tracking easier, faster, and more accessible by using AI and computer vision to provide nutritional insights from food photos.
+
+⚠️ **Disclaimer:** NutriSnap is a completed project, but its AI-generated nutritional estimates may contain errors and are not 100% accurate or reliable. Results are approximations and should not be used as a substitute for professional nutritional advice.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Features
 
 - Responsive design with mobile support
